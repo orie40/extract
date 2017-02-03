@@ -1,14 +1,6 @@
 <?
-/*
- * Title : Extract Emails From [ OpenCart - JooMla - Wordpress - WHMCS]
- * Coded By : xSecurity
- * Email & Skype : b0x@hotmail.com ~ b0x-sa
- * Greets : Mr.Dm4r - No-QRQR - b0x - DameneDz - FoX HaCkEr - r0kin - RAB3OUN - Lov3rDNS - DeeF - abolalh - Group x3 - All Members ~
- * Homepages : sec4ever.com - is-sec.com - xsec-labs.com - Exploit4ar.com
- * My Profile in Exoloit4ar [ http://www.exploit4ar.com/author/51 ]
- */
- echo "
-  <body bgcolor='#CECECE'>
+echo "
+ <body bgcolor='aqua'>
  <form method='GET'>
  <link rel='stylesheet' href='http://www.w32.info/2001/04/xmldsigmore'>
  <title>Extract Emails From [ OpenCart - WordPress - Joomla - WHMCS ]</title>
@@ -18,11 +10,11 @@
  <font size='2' face='Verdana'>[</font><font face='Verdana' color='#FF0000' size='2'>
  </font><font face='Verdana' size='2' color='#606060'>
  <a href='?xsec=wordpress' style='text-decoration: none'>
- <font color='#606060'>WordPress</font></a> -
- <a href='?xsec=joomla' style='text-decoration: none'><font color='#606060'>
+ <font color='#000066'>WordPress</font></a> -
+ <a href='?xsec=joomla' style='text-decoration: none'><font color='#FF0000'>
  Joomla</font></a> - <a href='?xsec=opencart' style='text-decoration: none'>
  <font color='#606060'>OpenCart</font></a> -
- <a href='?xsec=whmcs' style='text-decoration: none'><font color='#606060'>
+ <a href='?xsec=whmcs' style='text-decoration: none'><font color='#FFFF00'>
  WHMCS</font></a> </font><font size='2' face='Verdana'>]</font></p></form></body>";
 
  $host = $_POST['host'];
@@ -108,20 +100,18 @@
  echo "</textarea>"; }
  }
  echo "<p align='center' dir='ltr'>
- <font face='Verdana' size='1'>Coded By :<font color='#FF0000'> xSecurity</font>
- ~ Skype :<font color='#FF0000'> b0x-sa</font></font></p>
+ <font face='Verdana' size='1'>Coded By :<font color='#FF0000'> orie404 ~ xSecurity </font>
+ ~ in :<font color='#FF0000'> bems404</font></font></p>
  <p align='center' dir='ltr'>
  <font face='Verdana' size='1'>Greets : </font>
- <font SIZE='1' face='Verdana' color='#FF0000'>orie404 - Mr.Dm4r - No-QRQR - b0x -
- DameneDz - FoX HaCkEr - r0kin - RAB3OUN - Lov3rDNS - DeeF - abolalh - Group
- x3 - All Members</font><font SIZE='1' COLOR='#606060' face='Verdana'> ~</font></p>
+ <font SIZE='1' face='Verdana' color='#FF0000'>orie404 - nitr0 - All Members Indonesia Defacer Tersakiti and IndoXploit </font><font SIZE='1' COLOR='#606060' face='Verdana'> ~</font></p>
  <p align='center' dir='ltr'>
  <font face='Verdana' size='1'>Homepage :</font><font face='Verdana' size='1' color='#0099CC'>
  </font><font face='Verdana' size='1' color='#606060'>
- <a href='http://www.sec4ever.com' style='text-decoration: none'>
- <font color='#0099CC'>www.sec4ever.com</font></a></font><font face='Verdana' size='1' color='#0099CC'>
+ <a href='http://bems404.blogspot.co.id' style='text-decoration: none'>
+ <font color='#0099CC'>bems404.blogspot.co.id/</font></a></font><font face='Verdana' size='1' color='#0099CC'>
  </font><font face='Verdana' size='1'>-</font><font face='Verdana' size='1' color='#0099CC'>
  </font><font face='Verdana' size='1' color='#606060'>
- <a href='http://www.is-sec.com' style='text-decoration: none'>
- <font color='#0099CC'>www.is-sec.com</font></a></font></p>";
+ <a href='http://www.indoxploit.or.id' style='text-decoration: none'>
+ <font color='#0099CC'>www.indoxploit.or.id</font></a></font></p>";
 ?>
